@@ -1,0 +1,10 @@
+{
+  "type": "mod",
+  "name": "mobs_effects",
+  "title": "Mobs Effects",
+  "short_description": "Provides attribute effects for mobs based on Mobs Redo API, modifying movement, combat, and behavior attributes",
+  "long_description": "Provides common effects for mobs based on Mobs Redo API powered by Attributes Effects mod. Supports modification of movement attributes (walk/run velocity, jump height), combat attributes (reach, damage, view range), behavior attributes (walk/stand/attack chance and patience), and animation/special features (animation speed, shoot interval, leap ability). See README.md in repository for more informations.",
+  "license": "MIT",
+  "media_license": "CC-BY-SA-4.0",
+  "tags": ["library"]
+}
